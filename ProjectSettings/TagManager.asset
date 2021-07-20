@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cube_Object
+  - Tile_Object
+  - Player_Radius
+  - Hidden_Cube
+  - Pilot_Cube_Object
+  - Gem
+  - Gem_Waypoint
+  - MAST_Holder
+  - Exit_Point
+  - Entry_Point
+  - Spawn_Point
+  - Fence
+  - Answer_Object
+  - Neutral_Object
+  - Panel
+  - Button
+  - Finish_Point
+  - Choice_Object1
+  - Choice_Object2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Camera
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
